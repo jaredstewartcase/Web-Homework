@@ -1,2 +1,5 @@
 # Web-Homework
 HWK 12 - Web - HTML
+Description of files upload to github.com
+
+The main html file is Index.html - this is the summary and contains the 4 visualization snips of each plot. First the plots were constructed in pandas using the cities.csv file provided. These plots are saved here as figures and used as images in the html files. The cities.csv file was converted to html using an online provider. The syntax for table was pasted in the html file from the online converter. Each view was created as an html file and referenced in the other html files to create a loop to see each view without having to open up that particular html file. Lastly the style files are labeled 2 and 3. The style 2 is for larger screens and the style 3 is for smaller screens. When creating the format style CSS pages, the following pixels were used to verify prior to submission, large screen: 1675 pixels wide. and for small screen, the media query was constructed so it would be implemented at 480 pixels wide.
